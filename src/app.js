@@ -10,6 +10,7 @@ import userRoutes from "./routes/user.routes";
 
 
 //.------------------------------
+//No queda mejor de esta forma
 
 const app = express()
 createRoles();
